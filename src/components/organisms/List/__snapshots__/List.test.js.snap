@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Users/abidkhalil/Documents/basic-react-app/src/components/organisms/List/List.test.js Should render 1`] = `
+<ConnectFunction
+  names={
+    Array [
+      "Abid1",
+      "Abid2",
+    ]
+  }
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+>
+  <List
+    dispatch={[Function]}
+    names={
+      Array [
+        "Abid1",
+        "Abid2",
+        "Abid3",
+      ]
+    }
+    store={
+      Object {
+        "clearActions": [Function],
+        "dispatch": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  >
+    <ul>
+      <ListItem
+        key="Abid1"
+        name="Abid1"
+      >
+        <li
+          className="ListItem"
+        >
+          <Hello
+            isVisible={true}
+            name="Abid1"
+          >
+            <p
+              className="HelloText"
+            >
+              Hello 
+              Abid1
+            </p>
+          </Hello>
+          <Button
+            action={[Function]}
+            label="Show/Hide Abid1"
+          >
+            <button
+              className="Button"
+              onClick={[Function]}
+            >
+              Show/Hide Abid1
+            </button>
+          </Button>
+        </li>
+      </ListItem>
+      <ListItem
+        key="Abid2"
+        name="Abid2"
+      >
+        <li
+          className="ListItem"
+        >
+          <Hello
+            isVisible={true}
+            name="Abid2"
+          >
+            <p
+              className="HelloText"
+            >
+              Hello 
+              Abid2
+            </p>
+          </Hello>
+          <Button
+            action={[Function]}
+            label="Show/Hide Abid2"
+          >
+            <button
+              className="Button"
+              onClick={[Function]}
+            >
+              Show/Hide Abid2
+            </button>
+          </Button>
+        </li>
+      </ListItem>
+      <ListItem
+        key="Abid3"
+        name="Abid3"
+      >
+        <li
+          className="ListItem"
+        >
+          <Hello
+            isVisible={true}
+            name="Abid3"
+          >
+            <p
+              className="HelloText"
+            >
+              Hello 
+              Abid3
+            </p>
+          </Hello>
+          <Button
+            action={[Function]}
+            label="Show/Hide Abid3"
+          >
+            <button
+              className="Button"
+              onClick={[Function]}
+            >
+              Show/Hide Abid3
+            </button>
+          </Button>
+        </li>
+      </ListItem>
+    </ul>
+  </List>
+</ConnectFunction>
+`;

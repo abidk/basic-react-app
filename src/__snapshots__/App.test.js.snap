@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test main app should contain list 1`] = `
+<div
+  className="App"
+>
+  <h1
+    className="App-title"
+  >
+    Basic React App
+  </h1>
+  <div
+    className="App-form"
+  >
+    <ConnectFunction />
+  </div>
+  <div
+    className="App-items"
+  >
+    <ConnectFunction
+      names={
+        Array [
+          "Joe",
+          "Abid",
+        ]
+      }
+    />
+  </div>
+</div>
+`;

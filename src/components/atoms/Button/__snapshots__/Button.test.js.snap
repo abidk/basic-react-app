@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Users/abidkhalil/Documents/basic-react-app/src/components/atoms/Button/Button.test.js Should render 1`] = `
+<button
+  className="Button"
+  onClick={[Function]}
+>
+  Click here
+</button>
+`;

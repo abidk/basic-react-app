@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Users/abidkhalil/Documents/basic-react-app/src/components/atoms/Hello/Hello.test.js Test Hello render 1`] = `
+<p
+  className="HelloText"
+>
+  Hello 
+  Abid
+</p>
+`;
