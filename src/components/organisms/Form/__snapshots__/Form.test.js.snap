@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Users/abidkhalil/Documents/basic-react-app/src/components/organisms/Form/Form.test.js Should render 1`] = `
+<Form>
+  <div
+    className="form-group"
+  >
+    <label
+      htmlFor="name"
+    >
+      Name
+    </label>
+    <input
+      id="name"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <Button
+      action={[Function]}
+      label="Save"
+    >
+      <button
+        className="Button"
+        onClick={[Function]}
+      >
+        Save
+      </button>
+    </Button>
+  </div>
+</Form>
+`;
